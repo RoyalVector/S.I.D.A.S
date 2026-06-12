@@ -19,9 +19,15 @@ I made this project, well... because i wanted to try and make something that cou
 <img width="1045" height="572" alt="Wiring" src="https://github.com/user-attachments/assets/4f968849-9e65-428c-9804-28113a48864f" />
 
 # Bill Of Materials
-[S.I.D.A.S-bom (1).csv](https://github.com/user-attachments/files/27573806/S.I.D.A.S-bom.1.csv)
+[S.I.D.A.S-bom (2).csv](https://github.com/user-attachments/files/28893621/S.I.D.A.S-bom.2.csv)
 
 | Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
 |---:|---|---|---|---|---:|
+
+| Buzzer | Sound Alerts | 1 | 0.00 | https://www.aliexpress.com/item/32949954569.html | AliExpress |
+| LDR Light sensor | To monitor environmental illumination | 1 | 0.00 | https://www.aliexpress.com/item/1005005935527338.html | AliExpress |
+| LEDS | State indication | 5 | 0.00 | https://www.aliexpress.com/item/1005003144912658.html | AliExpress |
+| ESP32 DEV BOARD | Main controller board | 1 | 0.00 | https://www.aliexpress.com/item/1005005655238798.html | AliExpress |
+| OLED | DISPLAY | 1 | 2.25 | https://www.aliexpress.com/item/1005006141235306.html | ALIEXPRESS |
 | 3d printed case | Project enclosure | 1 | 12.00 | https://stasis.hackclub.com/dashboard/projects/cmo77hxz701ri01s4xif7aua0 | printing-legion |
-| PIR Motion Detector Module | For detecting sudden movements | 1 | 1.50 | https://www.aliexpress.com/item/1005005140420875.html | Aliexpress |
+| PIR Motion Detector Module | For detecting sudden movements | 1 | 3.00 | https://www.aliexpress.com/item/1005005140420875.html | Aliexpress |
