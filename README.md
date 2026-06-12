@@ -23,7 +23,6 @@ I made this project, well... because i wanted to try and make something that cou
 
 | Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
 |---:|---|---|---|---|---:|
-
 | Buzzer | Sound Alerts | 1 | 0.00 | https://www.aliexpress.com/item/32949954569.html | AliExpress |
 | LDR Light sensor | To monitor environmental illumination | 1 | 0.00 | https://www.aliexpress.com/item/1005005935527338.html | AliExpress |
 | LEDS | State indication | 5 | 0.00 | https://www.aliexpress.com/item/1005003144912658.html | AliExpress |
